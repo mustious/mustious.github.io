@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='mailto:a.j.mustapha@outlook.com'>a.j.mustapha@outlook.com</a>
+subtitle: <a>"Whoever strives shall succeed"</a><br><a href='mailto:a.j.mustapha@outlook.com'>a.j.mustapha@outlook.com</a>
 profile:
   align: right
   image: my_picture.jpg
