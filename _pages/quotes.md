@@ -17,8 +17,7 @@ font-size: 22px;
 
 "sic parves magna: greatness from small beginnings" 
 
-Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows neither victory nor defeat.
-- Theodore Roosevelt
+Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows neither victory nor defeat. - Theodore Roosevelt
 
 "Sometimes, it is the people who no one imagines anything of who do the things no one can imagine" - The Imitation Game [movie]
  
