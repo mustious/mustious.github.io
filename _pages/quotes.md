@@ -13,7 +13,7 @@ font-size: 22px;
 }
 </style>
 
-Transire suum pectus mundoque potiri" ("Rise above oneself and grasp the world").
+"Transire suum pectus mundoque potiri" ("Rise above oneself and grasp the world").
 
 "sic parves magna: greatness from small beginnings" 
 
