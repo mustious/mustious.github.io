@@ -13,9 +13,9 @@ font-size: 22px;
 }
 </style>
 
-"Transire suum pectus mundoque potiri" ("Rise above oneself and grasp the world").
+"Transire suum pectus mundoque potiri" ==> "Rise above oneself and grasp the world".
 
-"sic parves magna: greatness from small beginnings" 
+"Sic Parves Magna" ==> "Greatness from small beginnings" 
 
 Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows neither victory nor defeat. - Theodore Roosevelt
 
@@ -31,7 +31,7 @@ Until the lions have their own historians, the history of the hunt will always g
 
 
 ## **Anime Quotes**
-Surpass Your Limits. Right Here. Right Now" - Yami Sukehiro
+Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
 
 
 
