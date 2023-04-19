@@ -8,9 +8,9 @@ nav_order:
 ---
 
 * **Dec. 2022** &ensp;&thinsp;Best Graduating Engineering Student Award, [NSE (Nigerian Society of Engineers)](https://nse.org.ng/)
-* **Oct. 2022** &ensp;&thinsp;2023 Rhodes Scholarship Finalist [West Africa](https://www.rhodeshouse.ox.ac.uk/scholarships/applications/west-africa/)
+* **Oct. 2022** &ensp;&thinsp;[2023 Rhodes Scholarship Finalist, West Africa](https://www.instagram.com/p/Clg4dpnoLUw/)
 * **Aug. 2022** &ensp;&thinsp;[DeepMind Scholarship](https://www.deepmind.com/education) Recipient 2022/2023
-* **Aug. 2022** &ensp;&thinsp;[QuantumBlack/Office of AI Scholarship](http://eecs.qmul.ac.uk/news-and-events/news/items/scholarships-with-quantumblack-a-mckinsey-company-are-available-for-postgraduate-students-at-queen-mary-applications-are-open.html) Recipient 2022/2023
+* **Aug. 2022** &ensp;&thinsp;[QuantumBlack (McKinsey Company) and Office of AI Scholarship](http://eecs.qmul.ac.uk/news-and-events/news/items/scholarships-with-quantumblack-a-mckinsey-company-are-available-for-postgraduate-students-at-queen-mary-applications-are-open.html) Recipient 2022/2023
 * **Apr. 2022** &ensp;&thinsp;Best ICT Competition Instructor, Huawei ICT Competition Sub-Saharan Africa
 * **Oct. 2021** &ensp;&thinsp;1st Place, Department of Computer Engr. Final Year Undergraduate Project Exhibition
 * **Aug. 2021** &ensp;&thinsp;3rd Best Engineering Graduate in Nigeria (Awarded by CODET)
