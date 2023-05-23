@@ -32,7 +32,7 @@ Sometimes, it is the people who no one imagines anything of who do the things no
 There are two mistakes along the way to Self-Mastery: Not starting it and not going all the way.
                     - Shi Heng Yi
 
-The most beautiful thing we can experience is the mysterious. It is the source of all true art and science. - Albert Einstein[What I Believe, 1930]
+The most beautiful thing we can experience is the mysterious. It is the source of all true art and science. - Albert Einstein[What I Believe - Living Philosophies XIII, 1930]
 
 Until the lions have their own historians, the history of the hunt will always glorify the hunter. - Chinua Achebe
 
