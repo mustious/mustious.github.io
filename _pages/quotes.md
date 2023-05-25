@@ -28,6 +28,7 @@ Far better it is to dare mighty things, to win glorious triumphs, even though ch
 
 
 Sometimes, it is the people who no one imagines anything of who do the things no one can imagine - The Imitation Game [movie]
+
 If there is not folly in the world, there the world itself is folly. You must understand mistakes are not often regrets. - Paul Tobins [Bandette, Volume One: Presto]
 
 There are two mistakes along the way to Self-Mastery: Not starting it and not going all the way.
