@@ -2,7 +2,7 @@
 layout: post
 title:  Half of Everything, Half of Nothing
 date:   2023-06-01 16:40:16
-description: logs based on true life events.... 
+description: logs based on true life events... this doesn't necessarily make sense
 tags: adventures
 categories: Adventures
 ---
