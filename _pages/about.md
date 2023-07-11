@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a>"Whoever strives shall succeed."</a><br><a href='mailto:a.j.mustapha@outlook.com'>a.j.mustapha@outlook.com</a>
 profile:
   align: right
-  image: my_picture.jpg
+  image: mustapha_gif.gif
   image_circular: false # crops the image to make it circular
   address: >
     <p>London, United Kingdom</p>
