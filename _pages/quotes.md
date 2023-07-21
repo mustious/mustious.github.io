@@ -38,6 +38,8 @@ The most beautiful thing we can experience is the mysterious. It is the source o
 
 Until the lions have their own historians, the history of the hunt will always glorify the hunter. - Chinua Achebe
 
+Knowledge makes one humble, humility begets worthiness, worthiness creates wealth and enrichment, enrichment leads to right conduct, right conduct brings contentment. - Hitopadeshi 6
+
 
 
 ## **Anime Quotes**
