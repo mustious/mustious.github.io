@@ -40,6 +40,8 @@ Until the lions have their own historians, the history of the hunt will always g
 
 Knowledge makes one humble, humility begets worthiness, worthiness creates wealth and enrichment, enrichment leads to right conduct, right conduct brings contentment. - Hitopadeshi 6
 
+It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen. - Muhammad Ali
+
 
 
 ## **Anime Quotes**
