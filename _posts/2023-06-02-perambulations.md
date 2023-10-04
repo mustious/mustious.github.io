@@ -7,6 +7,7 @@ tags: adventures
 categories: Adventures
 ---
 
+[02-Oct.-2023] Begin from the beginning as all things should be.\
 [25-Aug.-2023] Immense gratitude to mentors, lecturers, and teachers who have been more than supportive over the years.\
 [28-Aug.-2023] The teacher who believed, the student who delivered.\
 [04-July-2023] The blessing and the curse. "An adolescent ambition and a reckless dream."\
