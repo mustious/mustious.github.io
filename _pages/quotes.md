@@ -49,3 +49,5 @@ Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
 
 
 ## **My Quotes**
+First, you must believe above all things, then persevere beyond all things.
+
