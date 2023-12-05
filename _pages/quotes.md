@@ -42,6 +42,7 @@ Knowledge makes one humble, humility begets worthiness, worthiness creates wealt
 
 It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen. - Muhammad Ali
 
+Success is not final; failure is not fatal. It is the courage to continue that counts. -Winston Churchill
 
 
 ## **Anime Quotes**
