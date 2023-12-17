@@ -21,5 +21,5 @@ My research interests span Machine Learning, Reinforcement Learning, and Control
 
 I am open to learning and collaborating on any exciting project :)
 
-I [attempt to] teach Deep Learning at [Arewa Data Science Academy](https://arewadatascience.github.io/) as a volunteer mentor.
+I [attempt to] teach Deep Learning at [Arewa Data Science Academy](https://arewadatascience.github.io/) as a volunteer mentor. See videos [here](https://www.youtube.com/watch?v=yjXAuYE7kKc&list=PLf4vs1mkrux2OQyidTpH5zw2qxhX1ZPVI)
 
