@@ -48,6 +48,7 @@ Success is not final; failure is not fatal. It is the courage to continue that c
 ## **Anime Quotes**
 Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
 
+Set your heart ablaze - Kyojuro Rengoku
 
 ## **My Quotes**
 First, you must believe above all things, then persevere beyond all things.
