@@ -45,6 +45,7 @@ It's the repetition of affirmations that leads to belief. And once that belief b
 Success is not final; failure is not fatal. It is the courage to continue that counts. -Winston Churchill
 
 Don't be intimidated. Great knowledge comes from the humblest of origins. - Littlewood [Movie: The Man Who Knew Infinity]
+"Embrace the struggle" - Unknown
 
 
 ## **Anime Quotes**
@@ -53,5 +54,5 @@ Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
 Set your heart ablaze - Kyojuro Rengoku
 
 ## **My Quotes**
-First, you must believe above all things, then persevere beyond all things.
+First, you must believe, then you must persevere.
 
