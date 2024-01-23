@@ -44,7 +44,8 @@ It's the repetition of affirmations that leads to belief. And once that belief b
 
 Success is not final; failure is not fatal. It is the courage to continue that counts. -Winston Churchill
 
-Don't be intimidated. Great knowledge comes from the humblest of origins. - Littlewood [Movie: The Man Who Knew Infinity]\
+Don't be intimidated. Great knowledge comes from the humblest of origins. - Littlewood [Movie: The Man Who Knew Infinity]
+
 "Embrace the struggle" - Unknown
 
 
