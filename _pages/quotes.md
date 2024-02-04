@@ -54,6 +54,8 @@ Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
 
 Set your heart ablaze - Kyojuro Rengoku
 
+I'll achieve something grand that will be talked about throughout the land. My name will be spoken endlessly across generations, and I'll become a legend. - Tamiya, Gantetsusai
+
 ## **My Quotes**
 First, you must believe, then you must persevere.
 
