@@ -6,7 +6,9 @@ description:
 nav: true
 nav_order:
 ---
-*Note:* Not updated, please check [CV](https://mustious.github.io/assets/pdf/Mustapha_Abdullahi_CV.pdf) for full awards :)
+*Note:* Please check [CV](https://mustious.github.io/assets/pdf/Mustapha_Abdullahi_CV.pdf) for full awards :)
+* **Dec. 2023** &ensp;&thinsp;Finland Fellowship [for doctoral studies at Aalto University]
+* **May 2023** &ensp;&thinsp;AEGEAN Scholarship - Travel Grant to attend M2L School (one of 10 top students)
 * **Dec. 2022** &ensp;&thinsp;Best Graduating Engineering Student Award, [NSE (Nigerian Society of Engineers)](https://nse.org.ng/)
 * **Oct. 2022** &ensp;&thinsp;[2023 Rhodes Scholarship Finalist, West Africa](https://www.instagram.com/p/Clg4dpnoLUw/)
 * **Aug. 2022** &ensp;&thinsp;[Google DeepMind Scholarship](https://www.deepmind.com/education) Recipient 2022/2023
