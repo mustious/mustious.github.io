@@ -17,4 +17,3 @@ categories: Adventures
 [02-July-2023] Tried to run from destiny but it always finds you. Meeting with A.L. [he was the kindest :)].\
 [26-June-2023] Die has been cast. Full of caffeine and regrets.\
 [12-June-2023] It's easy to think you are weak. Afterall, we all are, bowing to a greater purpose. You'll come realise you are strongest.
-
