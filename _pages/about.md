@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral researcher with the [Aalto Data Intensive Systems](https://www.aalto.fi/en/people/bo-zhao) group at the [Department of Computer Science, Aalto University](https://zbjob.github.io/). I am fortunate to be advised by [Prof. Bo Zhao](https://www.aalto.fi/en/people/bo-zhao). I am supported by the Finland Fellowship. My research interests span scalable reinforcement learning (RL) systems and efficient training of large language models (LLMs).
+I am a doctoral researcher with the [Aalto Data Intensive Systems](https://zbjob.github.io/) group at the [Department of Computer Science, Aalto University](https://www.aalto.fi/en/department-of-computer-science). I am fortunate to be advised by [Prof. Bo Zhao](https://www.aalto.fi/en/people/bo-zhao). I am supported by the Finland Fellowship. My research interests span scalable reinforcement learning (RL) systems and efficient training of large language models (LLMs).
 
 Previously, I completed my MSc in AI at the [Queen Mary University of London](http://www.eecs.qmul.ac.uk/), sponsored by [Google DeepMind](https://deepmind.google/about/education/#scholarships) and [QuantumBlack (McKinsey) & Office of AI](http://www.eecs.qmul.ac.uk/ioc/scholarships/quantumblack-scholarship/). I received my B.Eng. in Computer Engineering from [Ahmadu Bello University](https://abu.edu.ng/). I was a Software Engineering Intern at [QuantumBlack AI Labs (McKinsey & Company)](https://www.mckinsey.com/capabilities/quantumblack/labs). 
 
