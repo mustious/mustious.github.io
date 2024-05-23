@@ -48,6 +48,8 @@ Don't be intimidated. Great knowledge comes from the humblest of origins. - Litt
 
 "Embrace the struggle" - Unknown
 
+It must be borne in mind that the tragedy of life doesn’t lie in not reaching your goal. The tragedy lies in having no goal to reach. It isn’t a calamity to die with dreams unfulfilled, but it is a calamity not to dream. It is not a disaster to be unable to capture your ideal, but it is a disaster to have no ideal to capture. It is not a disgrace not to reach the stars, but it is a disgrace to have no stars to reach for. Not failure, but low aim is sin. - Dr. Benjamin E. Mays
+
 
 ## **Anime Quotes**
 Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
@@ -55,6 +57,8 @@ Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
 Set your heart ablaze - Kyojuro Rengoku
 
 I'll achieve something grand that will be talked about throughout the land. My name will be spoken endlessly across generations, and I'll become a legend. - Tamiya, Gantetsusai
+
+"They have reached 120% of their potental" - Jujutsu kaisen [referring to Aoi, Yuji, and Mahito]
 
 ## **My Quotes**
 First, you must believe, then you must persevere.
