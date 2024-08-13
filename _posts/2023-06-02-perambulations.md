@@ -6,6 +6,7 @@ description: logs based on life events... this doesn't necessarily make sense
 tags: adventures
 categories: Adventures
 ---
+[13-Aug.-2024] "Maximum Effort!"\
 [15-April-2024] The *Grind*.\
 [12-April-2024] I will miss the sun.\
 [18-Oct.-2023] Conquest; gratitude; limbo.\
