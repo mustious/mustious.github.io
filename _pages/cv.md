@@ -7,7 +7,7 @@ nav_order: 4
 cv_pdf: Mustapha_Abdullahi_CV.pdf
 ---
 
-*[Last Updated: 12-July-2024]*
+*[Last Updated: 24-April-2025]*
 
 Full Curriculum Vitae:  [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf)
 
