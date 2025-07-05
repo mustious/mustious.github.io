@@ -3,13 +3,25 @@
 ---
 @charset "utf-8";
 
-// Dimensions
-$max-content-width: {{ site.max_width }};
+// Use each file on a separate line
+@use "variables";
+@use "themes";
+@use "layout";
+@use "base";
+@use "distill";
+@use "cv";
+@use "tabs";
+@use "typograms";
+@use "font-awesome/fontawesome";
+@use "font-awesome/brands";
+@use "font-awesome/solid";
+@use "font-awesome/regular";
+@use "tabler-icons/tabler-icons.scss";
+@use "tabler-icons/tabler-icons-filled.scss";
+@use "tabler-icons/tabler-icons-outline.scss";
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill"
-;
+// Dimensions
+$max-content-width: {{ site.max_width | default: "1000px" }};
+.container {
+  max-width: $max-content-width;
+}
