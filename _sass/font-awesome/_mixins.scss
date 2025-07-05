@@ -1,5 +1,8 @@
 // mixins
 // --------------------------
+@use "variables" as *;
+@use "font-awesome/functions" as *;
+
 
 // base rendering for an icon
 @mixin fa-icon {

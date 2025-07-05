@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
+title: news
 permalink: /news/
 ---
 
-{% include news.html %}
+{% include news.liquid %}

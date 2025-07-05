@@ -1,5 +1,6 @@
 // icons in a list
 // -------------------------
+@use "variables" as *;
 
 .#{$fa-css-prefix}-ul {
   list-style-type: none;

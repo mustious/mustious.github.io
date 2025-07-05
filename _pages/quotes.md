@@ -4,7 +4,7 @@ permalink: /quotes/
 title: Quotes
 description: 
 nav: false
-nav_order:
+nav_order: 6
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
