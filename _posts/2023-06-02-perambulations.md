@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  Half of Everything, Half of Nothing
-date:   2023-06-01 16:40:16
+title: Half of Everything, Half of Nothing
+date: 2023-06-01 16:40:16
 description: logs based on life events... this doesn't necessarily make sense
 tags: adventures
 categories: Adventures
 ---
+
 [28-July-2025] My sunshine! Alhamdulillah!\
 [13-Aug.-2024] "Maximum Effort!"\
-[15-April-2024] The *Grind*.\
+[15-April-2024] The _Grind_.\
 [12-April-2024] I will miss the sun.\
 [18-Oct.-2023] Conquest; gratitude; limbo.\
 [20-Dec.-2023] The simpler tasks can be the most challenging!\

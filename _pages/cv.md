@@ -7,8 +7,9 @@ nav_order: 4
 cv_pdf: Mustapha_Abdullahi_CV.pdf # you can also use external links here
 description:
 ---
-*[Last Updated: 24-April-2025]*
 
-Full Curriculum Vitae:  [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf)
+_[Last Updated: 24-April-2025]_
+
+Full Curriculum Vitae: [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf)
 
 Resume: [Resume](/assets/pdf/Mustapha_Abdullahi_Resume.pdf)
