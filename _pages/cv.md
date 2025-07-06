@@ -1,11 +1,14 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 4
+cv_pdf: Mustapha_Abdullahi_CV.pdf # you can also use external links here
+description:
 ---
+*[Last Updated: 24-April-2025]*
+
+Full Curriculum Vitae:  [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf)
+
+Resume: [Resume](/assets/pdf/Mustapha_Abdullahi_Resume.pdf)

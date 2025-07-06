@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mustious
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mustious/iGlass-infinity
+  - mustious/CompengBot
+  - mustious/Worked-Exercises-Python-Brian-Heinold
+  - mustious/Cat-Dog-Pandas-classfier-using-pretrained-densenet161

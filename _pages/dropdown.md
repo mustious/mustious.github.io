@@ -1,13 +1,14 @@
 ---
 layout: page
-title: submenus
+title: extras
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
+  - title: Repositories
+    permalink: /repositories/
+  - title: Quotes
+    permalink: /quotes/
+  - title: Blog
     permalink: /blog/
 ---
