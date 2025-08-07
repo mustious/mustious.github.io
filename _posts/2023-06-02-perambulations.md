@@ -7,7 +7,7 @@ tags: adventures
 categories: Adventures
 ---
 
-[28-July-2025] My sunshine! Alhamdulillah!\ [My Big B](https://nocodesenpai.webflow.io/)\
+[28-July-2025] My sunshine! Alhamdulillah! [My Big B](https://nocodesenpai.webflow.io/)\
 [13-Aug.-2024] "Maximum Effort!"\
 [15-April-2024] The _Grind_.\
 [12-April-2024] I will miss the sun.\
