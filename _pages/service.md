@@ -24,4 +24,4 @@ nav_order: 3
 | **2023–Present**| Deep Learning Mentor, [Arewa Data Science Academy](https://arewadatascience.github.io/people/staff/mustapha.html) [[videos 📺](https://www.youtube.com/watch?v=yjXAuYE7kKc&list=PLf4vs1mkrux2OQyidTpH5zw2qxhX1ZPVI)] |
 
 
-See more in my [CV](/cv/)
+See more in my [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf)
