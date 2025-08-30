@@ -13,6 +13,4 @@ children:
     permalink: /media/
   - title: Quotes
     permalink: /quotes/
-
-
 ---
