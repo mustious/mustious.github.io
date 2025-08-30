@@ -11,7 +11,7 @@ nav_order: 3
 
 - **2025** - [MLforSystems Workshop](https://mlforsystems.org/) at NeurIPS
 - **2025** - [Muslims in ML Workshop](https://muslimsinml.github.io/) at NeurIPS
-- **2025** - [Evaluating the Evolving LLM Lifecycle](https://sites.google.com/view/llm-eval-workshop) at NeurIPS
+- **2025** - [Evaluating the Evolving LLM Lifecycle Workshop](https://sites.google.com/view/llm-eval-workshop) at NeurIPS
 
 ---
 
