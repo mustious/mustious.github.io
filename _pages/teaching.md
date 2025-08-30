@@ -13,7 +13,7 @@ nav_order: 2
 
 - **Teaching Assistant** <br>
   CS-E4780 Scalable Systems and Data Management, Aalto University <br>
-  _Autumn 2024_
+  _Autumn 2024_, _Autumn 2025_
 
 - **Co-Organiser and Lead Tutor** <br>
   [Deep Learning with Pytorch Fellowship](https://github.com/arewadataScience/ArewaDS-Deep-Learning), [Arewa Data Science Academy](https://arewadatascience.github.io) (Remote) <br>
