@@ -175,6 +175,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=Zqe-9aMAAAAJ", "_blank");
         },
       },{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/413/6958.html", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
