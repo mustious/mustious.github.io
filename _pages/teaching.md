@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-- **Co-supervisor** <br>
+- **Research Advisor** <br>
   CS-E4645: Research Project on Data Intensive Computing, Aalto University <br>
-  _Spring 2025_
+  _Spring 2025, Spring 2026_
 
 - **Teaching Assistant** <br>
   CS-E4780 Scalable Systems and Data Management, Aalto University <br>
