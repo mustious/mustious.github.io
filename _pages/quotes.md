@@ -9,14 +9,15 @@ nav_order: 6
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
 
 <style>
 p {
-font-family: 'Dancing Script', cursive;
-font-size: 28px;
-text-align: justify
+font-family: 'Kaushan Script', cursive;
+font-size: 24px;
+line-height: 1.8;
+text-align: justify;
+font-weight: 400;
 }
 </style>
 
