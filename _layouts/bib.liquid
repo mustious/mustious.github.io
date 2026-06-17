@@ -51,6 +51,7 @@
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
     <div class="author">
+      {% assign publication_note = site.data.publication_notes[entry.key] %}
       {% assign author_array_size = entry.author_array | size %}
 
       {% assign author_array_limit = author_array_size %}
@@ -89,6 +90,9 @@
             {{- author.first }}
             {{ author_last_html -}}
           </em>
+          {% if publication_note and publication_note.self_author_note %}
+            <span class="self-author-note">{{ publication_note.self_author_note }}</span>
+          {% endif %}
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">

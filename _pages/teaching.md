@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 - **Research Advisor** <br>

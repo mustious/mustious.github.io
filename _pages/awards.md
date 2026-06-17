@@ -4,10 +4,10 @@ permalink: /awards/
 title: Awards
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
-_Note:_ Please check [CV](https://mustious.github.io/assets/pdf/Mustapha_Abdullahi_CV.pdf) for full awards :)
+_Note:_ Please check [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf) for full awards :)
 
 - **2025-2028** &nbsp; [Finnish Doctoral Program Network in Artificial Intelligence (AI-DOC)](https://fcai.fi/news/2024/2/9/finnish-doctoral-program-in-ai)
 - **2024** &emsp;&emsp;&emsp;[Finland Fellowship [for doctoral studies at Aalto University]](https://www.aalto.fi/en/doctoral-education/how-to-apply-for-doctoral-studies#7-finland-fellowships-for-doctoral-students)

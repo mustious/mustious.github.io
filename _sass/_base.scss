@@ -775,6 +775,11 @@ footer.sticky-bottom {
           font-style: normal;
         }
 
+        > span.self-author-note {
+          font-style: italic;
+          font-weight: bolder;
+        }
+
         > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
