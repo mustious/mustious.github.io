@@ -112,7 +112,7 @@ ninja.data = [{
           section: "News",},{id: "news-super-stoked-and-grateful-to-have-received-the-finland-fellowship-to-fund-my-1st-year-of-phd-in-computer-science-at-aalto-university",
           title: 'Super stoked and grateful to have received the Finland Fellowship to fund my...',
           description: "",
-          section: "News",},{id: "news-excited-and-thankful-to-be-selected-for-the-finnish-doctoral-program-network-in-artificial-intelligence-ai-doc-funded-by-finnish-center-of-artificial-intelligence-fcai",
+          section: "News",},{id: "news-excited-and-thankful-to-be-selected-for-the-finnish-doctoral-program-network-in-artificial-intelligence-ai-doc-funded-by-finnish-center-for-artificial-intelligence-fcai",
           title: 'Excited and thankful to be selected for the Finnish Doctoral Program Network in...',
           description: "",
           section: "News",},{id: "news-kicked-off-cohort-2-of-the-deep-learning-fellowship-at-arewa-data-science-academy-as-lead-tutor",
