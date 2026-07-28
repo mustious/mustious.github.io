@@ -9,7 +9,7 @@ nav_order: 2
 
 _Note:_ Please check [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf) for full awards :)
 
-- **2025-2028** &nbsp; [Finnish Doctoral Program Network in Artificial Intelligence (AI-DOC)](https://fcai.fi/news/2024/2/9/finnish-doctoral-program-in-ai)
+- **2025-2027** &nbsp; [Finnish Doctoral Program Network in Artificial Intelligence (AI-DOC)](https://fcai.fi/news/2024/2/9/finnish-doctoral-program-in-ai)
 - **2024** &emsp;&emsp;&emsp;[Finland Fellowship [for doctoral studies at Aalto University]](https://www.aalto.fi/en/doctoral-education/how-to-apply-for-doctoral-studies#7-finland-fellowships-for-doctoral-students)
 - **2023** &emsp;&emsp;&emsp;AEGEAN Scholarship - Travel Grant to attend M2L School (one of 10 top students)
 - **2022** &emsp;&emsp;&emsp;Best Graduating Engineering Student Award, [NSE (Nigerian Society of Engineers)](https://nse.org.ng/)
