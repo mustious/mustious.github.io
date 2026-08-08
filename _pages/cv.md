@@ -8,7 +8,7 @@ cv_pdf: Mustapha_Abdullahi_CV.pdf # you can also use external links here
 description:
 ---
 
-_[Last Updated: 27-July-2026]_
+_[Last Updated: 8-August-2026]_
 
 Full Curriculum Vitae: [CV](/assets/pdf/Mustapha_Abdullahi_CV.pdf)
 
