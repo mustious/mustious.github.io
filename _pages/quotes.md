@@ -56,6 +56,9 @@ I took the one less traveled by,
 And that has made all the difference.  
 — Robert Frost _[The Road Not Taken, 1915]_
 
+من جد وجد، ومن زرع حصد، ومن سار على الدرب وصل  
+_"Whoever perseveres succeeds, whoever sows reaps, and whoever walks the path arrives."_ - Arabic Proverb
+
 ## **Anime Quotes**
 
 Surpass Your Limits. Right Here. Right Now - Yami Sukehiro
